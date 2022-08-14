@@ -1,0 +1,12 @@
+Roll num =10
+name of student Navnath
+Marks= 100
+
+Roll num =20
+name of student zele
+Marks= 150
+
+Roll num =30
+name of student bob
+Marks= 200
+
